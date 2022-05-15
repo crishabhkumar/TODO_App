@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/TODO_App/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/TODO_App/app/src/main/res/drawable/circular_button.xml" value="0.1" />
+        <entry key="..\:/TODO_App/app/src/main/res/drawable/custom_edittext.xml" value="0.1" />
+        <entry key="..\:/TODO_App/app/src/main/res/layout/activity_create_task.xml" value="0.1" />
+        <entry key="..\:/TODO_App/app/src/main/res/layout/activity_login.xml" value="0.25052083333333336" />
+        <entry key="..\:/TODO_App/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/TODO_App/app/src/main/res/layout/activity_splash_screen.xml" value="0.14447463768115942" />
+        <entry key="..\:/TODO_App/app/src/main/res/layout/activity_update_task_details.xml" value="0.14447463768115942" />
         <entry key="..\:/TODO_App/app/src/main/res/layout/activity_view.xml" value="0.1" />
       </map>
     </option>
