@@ -8,7 +8,7 @@
     android:gravity="center"
     android:orientation="vertical"
     android:padding="20dp"
-    tools:context=".create_task">
+    tools:context=".CreateTask">
 
     <TextView
         android:layout_width="match_parent"

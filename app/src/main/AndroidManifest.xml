@@ -17,14 +17,12 @@
             android:name=".UpdateTaskDetails"
             android:exported="false" />
         <activity
-            android:name=".splash_screen"
+            android:name=".SplashScreen"
             android:exported="false" />
         <activity
-            android:name=".create_task"
+            android:name=".CreateTask"
             android:exported="true" />
-        <activity
-            android:name=".view"
-            android:exported="true" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
